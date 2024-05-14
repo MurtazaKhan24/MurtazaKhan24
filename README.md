@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MurtazaKhan24
-- 👀 I’m interested in Software Engineering, Machine Learning, Artificial Intelligence
+- 👀 I’m interested in Software Engineering, AI/ML, Cloud Engineering
 - 🌱 I’m currently learning Computer science at the University of Texas at Dallas 
 - 💞️ I’m looking to collaborate on software development & machine learning.
 - 📫 You can reach me through email: khanmurtaza001@gmail.com
